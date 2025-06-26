@@ -225,4 +225,14 @@ textarea.form-control {
     border: 1px solid #ccc;
 }
 
+.alert {
+    max-width: 600px;
+    margin: 1rem auto;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 
