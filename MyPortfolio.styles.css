@@ -120,6 +120,12 @@ main[b-agupx8yfi6] {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-image' viewBox='0 0 16 16'%3E%3Cpath d='M14.002 3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2.002a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12zm-12 1a.001.001 0 0 0 0 0v8a.001.001 0 0 0 0 0h12a.001.001 0 0 0 0 0V4a.001.001 0 0 0 0 0H2.002z'/%3E%3Cpath d='M10.648 8.646a.5.5 0 0 1 .704.048l2 2.5a.5.5 0 0 1-.768.64l-1.842-2.303-1.081 1.295a.5.5 0 0 1-.768-.64l1.5-1.5a.5.5 0 0 1 .255-.14z'/%3E%3Cpath d='M4.502 6.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-size: contain;
+    color: #d7d7d7;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
 }
 
 
