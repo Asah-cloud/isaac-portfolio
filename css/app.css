@@ -493,3 +493,31 @@ form {
     align-items: center;
     justify-content: center;
 }
+
+.home-wrapper {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.home-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.home-overlay {
+    position: relative;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
